@@ -1,0 +1,12 @@
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\bin\Debug\Constructor Login.exe.config
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\bin\Debug\Constructor Login.exe
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\bin\Debug\Constructor Login.pdb
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor Login.csproj.AssemblyReference.cache
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor_Login.Form1.resources
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor_Login.Login.resources
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor_Login.Properties.Resources.resources
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor Login.csproj.GenerateResource.cache
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor Login.csproj.CoreCompileInputs.cache
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor Login.exe
+C:\Users\coman\Desktop\dersler\Constructor Login\Constructor Login\obj\Debug\Constructor Login.pdb
